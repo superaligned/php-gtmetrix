@@ -1,5 +1,7 @@
 # GTMetrix API client for PHP
 
+**This package is abandoned.** We are no longer using GTMetrix from PHP, and are therefore no longer able to provide updates or support for this package. If you know of a well-maintained alternative or fork, feel free to suggest it in an issue and we will consider adding it in Packagist.
+
 [![Packagist](https://img.shields.io/packagist/v/entrecore/gtmetrix.svg)](https://packagist.org/packages/entrecore/gtmetrix)
 [![Packagist](https://img.shields.io/packagist/l/entrecore/gtmetrix.svg)](https://packagist.org/packages/entrecore/gtmetrix)
 
